@@ -1,0 +1,13 @@
+{
+  "sitio": "Guevara y Olmos, Estudio Jurídico",
+  "titulo_corto": "Guevara y Olmos",
+  "responsable": "Guevara y Olmos, Estudio Jurídico",
+  "domicilio": "San Juan, Argentina",
+  "email": "estudio.guevara.olmos@gmail.com",
+  "telefono": "+54 9 264 527-8449",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-oro",
+  "theme_color": "#17120F",
+  "css": {"fondo": "var(--esp)", "fondo_hero": "var(--esp-2)", "texto_hero": "var(--crema)", "acento": "var(--champ)", "muted": "var(--muted-d)", "titulos": "var(--f-head)"}
+}
